@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchStatsConsoleApp", "MonarchStatsConsoleApp\MonarchStatsConsoleApp.csproj", "{1106F60B-D671-43B3-8C23-9DE0AED1339E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonarchStats.Test", "MonarchStats.Test\MonarchStats.Test.csproj", "{10B2D1A1-8F45-44A4-A78A-F6017E769B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1106F60B-D671-43B3-8C23-9DE0AED1339E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1106F60B-D671-43B3-8C23-9DE0AED1339E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1106F60B-D671-43B3-8C23-9DE0AED1339E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1106F60B-D671-43B3-8C23-9DE0AED1339E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B2D1A1-8F45-44A4-A78A-F6017E769B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2D1A1-8F45-44A4-A78A-F6017E769B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2D1A1-8F45-44A4-A78A-F6017E769B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2D1A1-8F45-44A4-A78A-F6017E769B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8464BA2A-1607-4B72-AF4A-E55700D171B7}
+	EndGlobalSection
+EndGlobal
